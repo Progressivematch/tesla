@@ -1,5 +1,0 @@
-proetheus
-grafana
-newrelic
-appDynamics
-Dynatrace
